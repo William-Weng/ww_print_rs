@@ -1,4 +1,4 @@
-# ww_print_rs
+# WWPrint
 ![Rust-2021](https://img.shields.io/badge/rust-2021-orange.svg?style=flat) ![TAG](https://img.shields.io/github/v/tag/William-Weng/ww_print_rs) ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)
 
 ### Introduction
