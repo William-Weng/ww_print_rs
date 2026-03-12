@@ -1,6 +1,5 @@
 # wwprint
-![Rust-2021](https://img.shields.io/badge/rust-2021-orange.svg?style=flat) ![TAG](https://img.shields.io/github/v/tag/William-Weng/ww_print_rs) ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)
-
+![Rust-2021](https://img.shields.io/badge/rust-1.90-orange.svg?style=for-the-badge) ![TAG](https://img.shields.io/github/v/tag/William-Weng/ww_print_rs?style=for-the-badge&color=21BCFF) ![Crates](https://img.shields.io/crates/v/wwprint.svg?style=for-the-badge&color=FF6467) ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=for-the-badge)
 ### Introduction
 - WWPrint for Rust - Debug print with file/line info.
 - 一個在Rust開發時除錯，用能顯示檔案名稱及行數的print巨集功能。
