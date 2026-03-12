@@ -1,9 +1,11 @@
 # ww_print_rs
-WWPrint for Rust - Debug print with file/line info.
+![Rust-2021](https://img.shields.io/badge/rust-2021-orange.svg?style=flat) ![TAG](https://img.shields.io/github/v/tag/William-Weng/ww_print_rs) ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)
 
 ### Introduction
 - WWPrint for Rust - Debug print with file/line info.
 - 一個在Rust開發時除錯，用能顯示檔案名稱及行數的print巨集功能。
+
+<img width="745" height="254" alt="Example" src="https://github.com/user-attachments/assets/9d3c5972-7346-4046-93d3-4fc506b4ebf8" />
 
 ### Example
 ```rust
