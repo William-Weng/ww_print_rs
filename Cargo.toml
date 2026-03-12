@@ -1,0 +1,9 @@
+[package]
+name = "wwprint"
+version = "0.1.0"
+edition = "2021"
+description = "WWPrint for Rust - Debug print with file/line info"
+license = "MIT"
+repository = "https://github.com/William-Weng/ww_print_rs"
+keywords = ["debug", "print", "macro"]
+categories = ["development-tools::debugging"]
