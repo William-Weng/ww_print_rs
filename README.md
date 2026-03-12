@@ -7,6 +7,11 @@
 
 <img width="745" height="254" alt="Example" src="https://github.com/user-attachments/assets/9d3c5972-7346-4046-93d3-4fc506b4ebf8" />
 
+### [Install](https://crates.io/crates/wwprint)
+```bash
+cargo add wwprint
+```
+
 ### Example
 ```rust
 use std::panic::Location;
